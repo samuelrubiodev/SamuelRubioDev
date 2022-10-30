@@ -1,5 +1,5 @@
 - 👋 Hola! me llamo Samuel!
-- 👀 Estoy interesado en las IAs me glustan mucho!
+- 👀 Estoy interesado en las IAs me gustan mucho!
 - 🌱 Estoy aprendiendo actualmente Python
 
 <!---

@@ -1,8 +1,15 @@
-- 👋 Hola! me llamo Samuel!
-- 👀 Estoy interesado en las IAs me gustan mucho!
-- 🌱 Estoy aprendiendo actualmente Java
+# 👋 ¡Bienvenido/a a mi perfil de GitHub!
 
-<!---
-OMGSAMUELRBR/OMGSAMUELRBR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hola, me llamo **Samuel**.  
+Estoy apasionado por la tecnología en general y actualmente estoy enfocado en **aprender Java, Python y Kotlin**.
+
+## 🚀 ¿Qué estoy haciendo actualmente?
+- 🌱 Aprendiendo programación en Java, Python y Kotlin. Haciendo un grado superior de DAM.  
+- 🤖 Explorando temas relacionados con la Inteligencia Artificial y el Machine Learning.  
+- 💡 Mejorando constantemente mis habilidades de programación y resolución de problemas.  
+- ⚙️ Tengo experiencia en **Java**.
+
+
+## ✨ ¡Conéctate conmigo!
+- 🌐 [Mi perfil en GitHub](https://github.com/Darkenight07)  
+- 📫 No dudes en escribirme si te interesa colaborar o tienes alguna pregunta.

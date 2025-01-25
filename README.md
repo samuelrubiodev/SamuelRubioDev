@@ -11,5 +11,4 @@ Estoy apasionado por la tecnología en general y actualmente estoy enfocado en *
 
 
 ## ✨ ¡Conéctate conmigo!
-- 🌐 [Mi perfil en GitHub](https://github.com/Darkenight07)  
 - 📫 No dudes en escribirme si te interesa colaborar o tienes alguna pregunta.

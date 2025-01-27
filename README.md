@@ -8,7 +8,3 @@ Estoy apasionado por la tecnología en general y actualmente estoy enfocado en *
 - 🤖 Explorando temas relacionados con la Inteligencia Artificial y el Machine Learning.  
 - 💡 Mejorando constantemente mis habilidades de programación y resolución de problemas.  
 - ⚙️ Tengo experiencia en **Java**.
-
-
-## ✨ ¡Conéctate conmigo!
-- 📫 No dudes en escribirme si te interesa colaborar o tienes alguna pregunta.

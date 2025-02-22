@@ -1,7 +1,7 @@
 # 👋 ¡Bienvenido/a a mi perfil de GitHub!
 
 Hola, me llamo **Samuel**.  
-Estoy apasionado por la tecnología en general y actualmente estoy enfocado en **aprender Java, Python y Kotlin**.
+Soy un apasionado por la tecnología en general y actualmente estoy enfocado en **aprender Java, Python y Kotlin**.
 
 ## 🚀 ¿Qué estoy haciendo actualmente?
 - 🌱 Aprendiendo programación en Java, Python y Kotlin. Haciendo un grado superior de DAM.  

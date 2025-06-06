@@ -1,7 +1,7 @@
 # 👋 ¡Bienvenido/a a mi perfil de GitHub!
 
 Hola, me llamo **Samuel**.  
-Soy un apasionado por la tecnología y la informática. Tengo formación en DAM y experiencia en el desarrollo de móvil con React Native y Android con Kotlin. Manejo de Java, React Native, Kotlin. 
+Soy un apasionado por la tecnología y la informática. Tengo formación en DAM y experiencia en el desarrollo de móvil con React Native y Android con Kotlin. Manejo de Java, React Native
 
 ## 🚀 ¿Qué estoy haciendo actualmente?
 - 🌱 Aprendiendo tecnologías como Unity, React, Next JS
